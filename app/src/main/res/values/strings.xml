@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SladMobileRssReader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">更新</string>
+</resources>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="661482b630e92bc25fd8c5e18c561dbd413cbdc8">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/classes-938115fddf28664f4e981bebfa3c3df05c4246ac.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3-a8cfe9c080a31f54471cb299ea8cce0ef960a65a.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-e32f7bc59a0228e2111cbe51696daf8946079f96.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2-a4996bce85013aac3d905d12abb355dd544ec222.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.novoda/rxpresso/0.1.5/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="5be5a82e034521b36d871fd615299f6a0d83619e">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/classes-be39251c87e246786b7de580ef1bd4704f1136dd.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="fc50deea51f4abc5c00463dd7c8b1ca8d0061026">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/classes-00ba878a8f2fe4e9725a36c86af6dba4fc6dace0.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1-02a9c6eb016b05e2389b4183b605722a19150831.jar" />
+    </item>
+    <item
+        jar="/home/osabe/src/android-sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-5c9eb32a7bdc18ed413a95b4f8017304f6aece34.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="87c0ea803b69252868d09308b4618f766f135a96">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/objenesis-2.1-350af4e7aad2b28d7aa04eff8b27afa46de78768.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e8546f5bef4e061d8dd73895b4e8f40e3fe6effe">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/mockito-core-1.10.19-4d2e3ec5a1dc5348352df83ad68e133e875992fb.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.3/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="eb6b41b1aa9906a727fb4841aa000f23f63d9330">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/classes-a7c947b838614ea92726cd55e674d0b5cb237d5f.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker/1.2/4d5045fefa6d286c5ddf733e321fe6e5e632efb6/dexmaker-1.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4d5045fefa6d286c5ddf733e321fe6e5e632efb6">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/dexmaker-1.2-9d5e7255cdc3af962efc9d8b8af59f33d71cf056.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1-784c1b38f7a53aa6ecaa0eab1b2917b12c14c2d5.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1-c473ffcd71f64be55bc7de6a7576beb303e7001b.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3-9c4e34aec4f62a2a162ec6e83f8bade4a7c7d426.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.23.0/9c437ce12df38b57fde4e3bb38ef6859f85ff737/rxandroid-0.23.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="9c437ce12df38b57fde4e3bb38ef6859f85ff737">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/rxandroid-0.23.0-3bafcd0a554de2f09935eb6a610e3cfc58738bd7.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.3/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="9ba8941f05fbf1826831a36c9afb82d47c9bbbb8">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/classes-fedfbca9272b70edc338b3899608b7f0ab6efc1e.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/classes-b3f5382cb90882783298b6433d39993993d043fa.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3-7d266cb4e39157e0d048a1a0e89981132be5deb9.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12-1a0c440e413c5843b5e0f82fdb86993a22b23475.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker-mockito/1.2/b99884a4c6ef6335ba376f79aa79632b2421c17c/dexmaker-mockito-1.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b99884a4c6ef6335ba376f79aa79632b2421c17c">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/dexmaker-mockito-1.2-262036201d737fbb4aab06c2a37d4d6f63089145.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.novoda/rxmocks/0.1.3/e9bae4e9fa01e80cd0861d4d4fba799347963681/rxmocks-0.1.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e9bae4e9fa01e80cd0861d4d4fba799347963681">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/rxmocks-0.1.3-bfc9b5bef2d4e205fb121c1616f989e267a6029a.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.10/c28ade6b57e4d4338b5fe0c9ac0e57805f1724f3/rxjava-1.0.10.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c28ade6b57e4d4338b5fe0c9ac0e57805f1724f3">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/rxjava-1.0.10-d03f6170a9b0bc04081859f5683391e413cc5dd2.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/debug/classes-b0379ee94334046736c2b47f81092696b1d857cf.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.3/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="93a09b0222200f83779a784ac9b25c2554653495">
+        <dex dex="/home/osabe/work/IDEA-workspace/SladMobileRssReader/app/build/intermediates/pre-dexed/androidTest/debug/classes-3e7c68257a9f60e9d7627318f1a961338a2420a4.jar" />
+    </item>
+
+</items>
